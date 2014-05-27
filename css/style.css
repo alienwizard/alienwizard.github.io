@@ -82,7 +82,7 @@ iframe {
 }
 
 nav li {
-	display: inline;
+	display: inline-block;
 	text-align: center;
 }
 
@@ -96,10 +96,25 @@ nav li:last-child:after {
 	content: none;
 }
 
+li  {
+	display: :inline;
+	list-style-type: none;
+}
+
 nav ul {
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
+}
+
+iframe {
+	text-align: center;
+	margin-left: 30%
+}
+
+.image_header {
+	
+
 }
 
 .article{
