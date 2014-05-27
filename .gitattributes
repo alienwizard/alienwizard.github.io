@@ -21,4 +21,9 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 $ git checkout --theirs -- img/RoboPriest.png
-$ git checkout --theirs -- img
+$ git checkout --theirs -- img/Huvudentre.png
+$ git checkout --theirs -- img/Rök.png
+$ git checkout --theirs -- img/Tempelpre.png
+$ git checkout --theirs -- img/LYD_prntscreen2_REAL.png
+$ git checkout --theirs -- img/LYD_prntscreen3_REAL.png
+$ git checkout --theirs -- img/Utmaning.png
