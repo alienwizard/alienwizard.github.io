@@ -21,3 +21,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 $ git checkout --theirs -- img/RoboPriest.png
+$ git checkout --theirs -- img
