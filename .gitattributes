@@ -20,4 +20,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-$ git checkout --theirs -- path/to/conflicted-file.txt
+$ git checkout --theirs -- img/RoboPriest.png
