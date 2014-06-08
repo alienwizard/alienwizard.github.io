@@ -12,6 +12,7 @@ a:hover{
 p {
 	font-size: 14px;
 	line-height: 21px;
+	text-align: center;
 }
 
 h1 {
@@ -77,8 +78,7 @@ a {
 
 iframe {
 	float: left;
-	width: 560px;
-	height: 316px;
+	
 }
 
 nav li {
@@ -109,12 +109,13 @@ nav ul {
 
 iframe {
 	text-align: center;
-	margin-left: 30%
+	
 }
 
-.image_header {
-	
-
+.about img {
+	margin-left: 400px;
+	width: 400px;
+	height: 300px;
 }
 
 .article{
