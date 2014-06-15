@@ -205,3 +205,8 @@ iframe {
 	clear: both;
 	color: #575757;
 }
+
+.image_header img {
+	width: 100%;
+	height: 100%;
+}
