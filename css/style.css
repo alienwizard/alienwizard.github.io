@@ -112,6 +112,11 @@ iframe {
 	
 }
 
+img {
+	width: 50%;
+	height: 50%;
+}
+
 .about img {
 	margin-left: 400px;
 	width: 400px;
