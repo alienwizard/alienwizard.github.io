@@ -63,6 +63,8 @@ article {
 article img {
 	float: left;
 	margin-right: 20px;
+	max-width-width: 250px;
+	max-height: 290px;
 
 }
 
@@ -94,6 +96,7 @@ nav li:after {
 
 nav li:last-child:after {
 	content: none;
+
 }
 
 li  {
@@ -118,16 +121,16 @@ img {
 }
 
 .about img {
-	margin-left: 400px;
 	width: 400px;
 	height: 300px;
 }
 
 .article{
 	float: left;
-	width: 50%;
+	width: 100%;
 	border: 1px solid black;
 	margin-bottom: 10px;
+	
 
 	
 }
@@ -137,10 +140,10 @@ img {
 
 .article_right {
 	float: right;
-	width: 50%;
+	width: 100%;
 	border: 1px solid black;
 	margin-bottom: 10px;
-	margin-right: -10px;
+	
 }
 
 
@@ -162,8 +165,8 @@ img {
 }
 
 .content {
-	width: 80%;
-	margin: 10px auto;
+	width: 50%;
+	margin: auto;
 }
 
 .meta {
